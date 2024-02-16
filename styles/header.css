@@ -34,4 +34,8 @@
   text-decoration: none;
   color: var(--color_font1);
   display: inline-block;
+  font-weight: bold;
+}
+.header__bottom--link:hover {
+  text-decoration: underline;
 }
