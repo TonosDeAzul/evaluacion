@@ -1,5 +1,7 @@
 @import url(header.css);
 @import url(landing.css);
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Protest+Revolution&display=swap"); 
 
 * {
   margin: 0;
@@ -12,45 +14,45 @@
   --color_font1: #1d1d1d;
 }
 
-.fd_col{
+.fd_col {
   display: flex;
   flex-direction: column;
 }
 
-.pt_5{
+.pt_5 {
   padding-top: 5px;
 }
-.pt_10{
+.pt_10 {
   padding-top: 10px;
 }
-.pt_15{
+.pt_15 {
   padding-top: 15px;
 }
-.pt_20{
+.pt_20 {
   padding-top: 20px;
 }
-.pt_25{
+.pt_25 {
   padding-top: 25px;
 }
-.pt_30{
+.pt_30 {
   padding-top: 30px;
 }
 
-.mt_5{
+.mt_5 {
   margin-top: 5px;
 }
-.mt_10{
+.mt_10 {
   margin-top: 10px;
 }
-.mt_15{
+.mt_15 {
   margin-top: 15px;
 }
-.mt_20{
+.mt_20 {
   margin-top: 20px;
 }
-.mt_25{
+.mt_25 {
   margin-top: 25px;
 }
-.mt_30{
+.mt_30 {
   margin-top: 30px;
 }

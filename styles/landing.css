@@ -17,6 +17,7 @@
   line-height: 1;
   font-size: 40px;
   display: inline-block;
+  font-family: "Protest Revolution", sans-serif;
 }
 .section__paragraph {
   text-align: center;
@@ -47,20 +48,23 @@
 }
 .section__left h2 {
   font-style: italic;
-  font-weight: 300;
-  font-size: 40px;
+  font-weight: bold;
+  font-size: 50px;
   line-height: 1;
+  font-family: "Dancing Script", cursive;
 }
 .section__left h1 {
-  font-size: 80px;
+  font-size: 100px;
   text-transform: uppercase;
   line-height: 1;
+  font-family: "Protest Revolution", sans-serif;
 }
 .section__left h3 {
   font-size: 25px;
   font-weight: 300;
   text-transform: uppercase;
   line-height: 1;
+  font-family: "Protest Revolution", sans-serif;
 }
 .section__left hr {
   margin: 10px auto;
@@ -74,6 +78,7 @@
   color: rgba(0, 0, 0, 0.5);
   text-align: justify;
   line-height: 1;
+  font-family: "Protest Revolution", sans-serif;
 }
 .section__left div h3 {
   font-size: 50px;
