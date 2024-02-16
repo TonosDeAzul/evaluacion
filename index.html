@@ -10,28 +10,33 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="styles/helper.css" />
     <title>Food 4 You - Home</title>
   </head>
   <body>
     <!-- HEADER  -->
-    <header>
-      <div>
-        <img src="images/logo.png" alt="" />
-        <div>
-          <div>
-            <h4>Express Delibery</h4>
-            <h3>1800 258 888</h3>
+    <header class="header">
+      <!-- CONTAINER -->
+      <article class="header__container">
+        <!-- TOP -->
+        <div class="header__top">
+          <img class="header__top--image" src="images/logo.png" alt="" />
+          <div class="header__top--right">
+            <div>
+              <h4>Express Delibery</h4>
+              <h3>1800 258 888</h3>
+            </div>
+            <img src="images/iPhone.png" alt="" />
           </div>
-          <img src="images/iPhone.png" alt="" />
         </div>
-      </div>
-      <nav>
-        <a href="#">Home</a>
-        <a href="#">Menu</a>
-        <a href="#">Our Story</a>
-        <a href="#">Contact Us</a>
-      </nav>
+        <!-- BOTTOM -->
+        <nav class="header__bottom">
+          <a class="header__bottom--link" href="#">Home</a>
+          <a class="header__bottom--link" href="#">Menu</a>
+          <a class="header__bottom--link" href="#">Our Story</a>
+          <a class="header__bottom--link" href="#">Contact Us</a>
+        </nav>
+      </article>
     </header>
 
     <!-- SECCIÓN 1 -->
